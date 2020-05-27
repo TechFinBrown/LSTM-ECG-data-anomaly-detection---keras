@@ -1,13 +1,13 @@
 # LSTM-ECG-data-anomaly-detection---keras
 
 Required Libraries
-Keras
-tensorflow
-matplotlib 
-pandas 
-numpy 
-scikit-learn 
-scipy 
+- Keras
+- tensorflow
+- matplotlib 
+- pandas 
+- numpy 
+- scikit-learn 
+- scipy 
 
 References
 
