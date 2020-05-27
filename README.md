@@ -2,6 +2,7 @@
 
 
 References
+
 [1] Renom - LSTM for Anomaly Detection in Time Series Data
 https://www.renom.jp/notebooks/tutorial/time_series/lstm-anomalydetection/notebook.html
 
