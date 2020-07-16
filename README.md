@@ -1,9 +1,10 @@
 # LSTM-ECG-data-anomaly-detection---keras
 ---
-This repository applied the LSTM network into anomaly/failure detection in the time series. The network can become a predictor in multiple time steps by trained on the non-anomalous data of the water levels at each individual water station. The result of prediction error was modeled as a multivariate Gaussian distribution that was able to evaluate the possibility of abnormal behavior.
+This repository applied the LSTM network into anomaly/failure detection in the time series. The network can become a predictor in multiple time steps by trained on the non-anomalous data of the ECG signals. The result of prediction error was modeled as a multivariate Gaussian distribution that was able to evaluate the possibility of abnormal behavior.
 
 ---
-Result Plot
+- Result Plot
+
 ![](https://github.com/TechFinBrown/LSTM-ECG-data-anomaly-detection---keras/blob/master/LSTM_ECG_Anomaly%20detection.png)
 
 ---
